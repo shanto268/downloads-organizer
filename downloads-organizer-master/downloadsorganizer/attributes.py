@@ -16,4 +16,5 @@ EXTENSIONS_DICT = {
     'software': ['.dmg', '.pkg', '.app'],
     'python': ['.py'],
     'c_and_c++': ['.cpp','.cc','c'],
+    'root': ['.root'],
 }
